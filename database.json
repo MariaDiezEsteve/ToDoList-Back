@@ -1,0 +1,8 @@
+{
+    "errands": [{
+        "id": 1,
+        "title": "Shopping",
+        "description": "Saturday morning",
+        "who": "Jessica"
+    }]
+}
